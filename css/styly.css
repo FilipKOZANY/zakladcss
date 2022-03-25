@@ -23,7 +23,7 @@ nav {
 
 a {
     padding: 19px;
-    text-decoration: underline;
+    text-decoration: none;
     color: lightgray;
 }
 
@@ -97,10 +97,6 @@ c {
 
 d {
     color: rgb(0, 153, 204);
-}
-
-b {
-    font-weight: 500;
 }
 
 .zelena {
